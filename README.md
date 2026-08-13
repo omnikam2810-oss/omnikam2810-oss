@@ -36,6 +36,7 @@ I specialize in building **production-grade full-stack web applications**, with 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -73,34 +74,16 @@ I specialize in building **production-grade full-stack web applications**, with 
 
 ---
 
-### 🧩 Featured Projects
-
-#### 🔍 [RepoLens — AI-Powered GitHub Repository Analyser](https://github.com/omnikam2810-oss)
-A SaaS-based analytics platform delivering intelligent repository insights, contribution tracking, and developer productivity metrics. Built with the MERN stack, integrated with the GitHub API, and powered by AI for smart analysis.
-
-#### 🎨 [DesignSync — Collaborative Design Delivery Platform](https://github.com/omnikam2810-oss)
-A full-stack platform enabling streamlined project management and real-time client collaboration, featuring RBAC, JWT authentication, and a modular, scalable MERN architecture.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omnikam2810-oss&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnikam2810-oss&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=omnikam2810-oss&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=omnikam2810-oss&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnikam2810-oss&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=omnikam2810-oss&hide_border=true" />
 </p>
-
----
-
-### 🎓 Education
-
-**Bachelor of Engineering — Computer Engineering**
-Savitribai Phule Pune University (SPPU) · 2023 – 2027
-CGPA: 8.85 / 10.00
 
 ---
 
