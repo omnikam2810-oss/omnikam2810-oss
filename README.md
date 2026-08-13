@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a Computer Engineering student at **Savitribai Phule Pune University (SPPU)** (Class of 2027, CGPA: 8.85), currently working as a **Full Stack Developer Intern at DRDO** (Defence Research and Development Organisation), where I build scalable MERN and .NET-based modules within a secure, mission-critical intranet environment.
+I'm a Final Year Computer Engineering student at **Savitribai Phule Pune University (SPPU)** , currently working as a **Full Stack Developer Intern at DRDO** (Defence Research and Development Organisation), where I build scalable MERN and .NET-based modules within a secure, mission-critical intranet environment.
 
 I specialize in building **production-grade full-stack web applications**, with growing expertise in **AI/LLM integration** and **mobile app development**. I care about writing clean, efficient, and maintainable code, backed by a strong foundation in DSA, OOP, DBMS, and SQL.
 
@@ -69,21 +69,10 @@ I specialize in building **production-grade full-stack web applications**, with 
 
 - Engineered scalable MERN stack and .NET-based modules within a secure offline intranet environment, focused on high-performance RESTful API development.
 - Built and deployed a high-performance IIS Log Analyzer with real-time traffic monitoring, suspicious IP detection, and status code analytics.
+- ●	Designed and deployed an offline LLM-based AI agent for automated, context-aware processing within the secure intranet environment, without external API dependency.
 - Developed responsive React.js dashboards with advanced filtering and log visualization to improve operational visibility.
 - Followed secure software engineering practices suited for mission-critical, research-driven systems.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=omnikam2810-oss&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=omnikam2810-oss&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omnikam2810-oss&hide_border=true" />
-</p>
 
 ---
 
